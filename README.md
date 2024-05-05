@@ -24,6 +24,10 @@ To Implement A* Search algorithm for a Graph using Python 3.
     - push q on the closed list
     end (while loop)
 ### Program:
+```
+Name : Kowsalya M
+Register no : 212222230069
+```
 ```Python
 from collections import defaultdict
 H_dist ={}
